@@ -1,0 +1,2 @@
+Queste sono le temperature di Rimini 23-03-25
+[18, 17, 22, 24, 25, 26, 27]
